@@ -51,7 +51,7 @@ def project_point(P, point3d):
 
 # --- Parâmetros e subscrição dos tópicos ---
 camera_ids = [1, 2, 3, 4]
-broker_uri = "amqp://guest:guest@10.10.2.211:30000"
+broker_uri = "amqp://rabbitmq:30000"
 
 channel = StreamChannel(broker_uri)
 subscription = Subscription(channel)
