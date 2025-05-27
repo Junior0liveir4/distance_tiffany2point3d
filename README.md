@@ -1,5 +1,5 @@
 
-# 🐾📍 distance_tiffany2point3d – Localização 3D e Distância da Tiffany
+# 🐾📍 Distance_Tiffany2Point3D – Localização 3D e Distância da Tiffany
 
 Este projeto realiza a reconstrução da posição 3D do robô **Tiffany** (desenvolvido pelo Lab Penguin) com base na detecção de sua bounding box em múltiplas câmeras, e calcula a distância até um ponto fixo selecionado pelo usuário. Foi desenvolvido para **ambiente local**, utilizando conceitos avançados de **visão computacional** e comunicação via **RabbitMQ (IS framework)** no ambiente do **LabSEA (IFES Guarapari)**.
 
@@ -137,11 +137,4 @@ Módulo do erro: 0.31
 
 ## 📬 Contato
 
-Para dúvidas, melhorias ou contribuições:
-**LabSEA – IFES Campus Guarapari**
-
----
-
-## 📜 Licença
-
-Este projeto é distribuído sob a licença MIT (ou conforme definido pelo autor).
+Para dúvidas ou sugestões, entre em contato com o time do LabSEA.
